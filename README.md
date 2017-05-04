@@ -1,5 +1,5 @@
 # Tubes-1
-Tubes Klompok 1 IF 38 07
+Tubes Klompok 08 IF 39 Gab
 Aplikasi ini di buat untuk perusahaan yang bergerak di bidang Biro Perjalanan dimana user dari aplikasi ini adalah admin dari perusahaan tersebut.
 cara Menggunakan :
 1.Admin Login Menggunakan ID dan Password yang sudah di tentukan
